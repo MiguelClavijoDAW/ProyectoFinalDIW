@@ -1,0 +1,36 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #70353D;
+}
+.img{
+    background-image: url(../img/pexels-pixabay-4158.jpg);
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h2{
+    color: rgb(146, 26, 62);
+    text-align: center;
+    padding: 20rem;
+}
+#scroll {
+    height: 200px;
+}
+.container{
+    background-color: white;
+    
+}
+header{
+    background-color: white;
+}
+#lenguaje{
+    background-color: #d66574;
+}
+#opiniones{
+    background-color: #fc7788;
+}
+footer{
+    background-color: #b0535F;
+}
+
