@@ -1,0 +1,47 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #70353D;
+}
+.img{
+    background-image: url(../img/pexels-pixabay-4158.jpg);
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    color: rgb(146, 26, 62);
+    text-align: center;
+    
+}
+.texto{
+    background-color: rgba(0, 0, 0, 0.527);
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 5rem;
+
+}
+#scroll {
+    height: 200px;
+}
+.container{
+    background-color: white;
+    
+}
+header{
+    background-color: white;
+}
+#lenguaje{
+    background-color: #d66574;
+}
+#opiniones{
+    background-color: #fc7788;
+}
+footer{
+    background-color: #b0535F;
+}
+
